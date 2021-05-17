@@ -13,7 +13,7 @@ Made available for distribution under the Creative Commons License.
 ## Table of Contents:
 1. [Mystery of Mysteries](ch-01.md) 
 1. [Together Emerging](ch-02.md)
-1. ch-03
+1. [Governing by satisfying bellies](ch-03.md)
 1. ch-04
 1. ch-05
 1. ch-06

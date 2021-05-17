@@ -11,84 +11,84 @@ translated into english by Brent Larsen
 Made available for distribution under the Creative Commons License.
 
 ## Table of Contents:
-- [1st Chapter](1st-Chapter.md) Mystery of Mysteries
-- [2nd Chapter](2nd-Chapter.md)
-- [3rd Chapter](3rd-Chapter.md)
-- [4th Chapter](4th-Chapter.md)
-- [5th Chapter](5th-Chapter.md)
-- [6th Chapter](6th-Chapter.md)
-- [7th Chapter](7th-Chapter.md)
-- [8th Chapter](8th-Chapter.md)
-- [9th Chapter](9th-Chapter.md)
-- [10th Chapter](10th-Chapter.md)
-- [11th Chapter](11th-Chapter.md)
-- [12th Chapter](12th-Chapter.md)
-- [13th Chapter](13th-Chapter.md)
-- [14th Chapter](14th-Chapter.md)
-- [15th Chapter](15th-Chapter.md)
-- [16th Chapter](16th-Chapter.md)
-- [17th Chapter](17th-Chapter.md)
-- [18th Chapter](18th-Chapter.md)
-- [19th Chapter](19th-Chapter.md)
-- [20th Chapter](20th-Chapter.md)
-- [21st Chapter](21st-Chapter.md)
-- [22nd Chapter](22nd-Chapter.md)
-- [23rd Chapter](23rd-Chapter.md)
-- [24th Chapter](24th-Chapter.md)
-- [25th Chapter](25th-Chapter.md)
-- [26th Chapter](26th-Chapter.md)
-- [27th Chapter](27th-Chapter.md)
-- [28th Chapter](28th-Chapter.md)
-- [29th Chapter](29th-Chapter.md)
-- [30th Chapter](30th-Chapter.md)
-- [31st Chapter](31st-Chapter.md)
-- [32nd Chapter](32nd-Chapter.md)
-- [33rd Chapter](33rd-Chapter.md)
-- [34th Chapter](34th-Chapter.md)
-- [35th Chapter](35th-Chapter.md)
-- [36th Chapter](36th-Chapter.md)
-- [37th Chapter](37th-Chapter.md)
-- [38th Chapter](38th-Chapter.md)
-- [39th Chapter](39th-Chapter.md)
-- [40th Chapter](40th-Chapter.md)
-- [41st Chapter](41st-Chapter.md)
-- [42nd Chapter](42nd-Chapter.md)
-- [43rd Chapter](43rd-Chapter.md)
-- [44th Chapter](44th-Chapter.md)
-- [45th Chapter](45th-Chapter.md)
-- [46th Chapter](46th-Chapter.md)
-- [47th Chapter](47th-Chapter.md)
-- [48th Chapter](48th-Chapter.md)
-- [49th Chapter](49th-Chapter.md)
-- [50th Chapter](10th-Chapter.md)
-- [51st Chapter](51st-Chapter.md)
-- [52nd Chapter](52nd-Chapter.md)
-- [53rd Chapter](53rd-Chapter.md)
-- [54th Chapter](54th-Chapter.md)
-- [55th Chapter](55th-Chapter.md)
-- [56th Chapter](56th-Chapter.md)
-- [57th Chapter](57th-Chapter.md)
-- [58th Chapter](58th-Chapter.md)
-- [59th Chapter](59th-Chapter.md)
-- [60th Chapter](60th-Chapter.md)
-- [61st Chapter](61st-Chapter.md)
-- [62nd Chapter](62nd-Chapter.md)
-- [63rd Chapter](63rd-Chapter.md)
-- [64th Chapter](64th-Chapter.md)
-- [65th Chapter](65th-Chapter.md)
-- [66th Chapter](66th-Chapter.md)
-- [67th Chapter](67th-Chapter.md)
-- [68th Chapter](68th-Chapter.md)
-- [69th Chapter](69th-Chapter.md)
-- [70th Chapter](70th-Chapter.md)
-- [71st Chapter](71st-Chapter.md)
-- [72nd Chapter](72nd-Chapter.md)
-- [73rd Chapter](73rd-Chapter.md)
-- [74th Chapter](74th-Chapter.md)
-- [75th Chapter](75th-Chapter.md)
-- [76th Chapter](76th-Chapter.md)
-- [77th Chapter](77th-Chapter.md)
-- [78th Chapter](78th-Chapter.md)
-- [79th Chapter](79th-Chapter.md)
-- [80th Chapter](80th-Chapter.md)
-- [81st Chapter](81st-Chapter.md)
+1. [Mystery of Mysteries](ch-01.md) 
+1. [Together Emerging](ch-02.md)
+1. ch-03
+1. ch-04
+1. ch-05
+1. ch-06
+1. ch-07
+1. ch-08
+1. ch-09
+1. ch-10
+1. ch-11 
+1. ch-12
+1. ch-13
+1. ch-14
+1. ch-15
+1. ch-16
+1. ch-17
+1. ch-18
+1. ch-19
+1. ch-20
+1. ch-21 
+1. ch-22
+1. ch-23
+1. ch-24
+1. ch-25
+1. ch-26
+1. ch-27
+1. ch-28
+1. ch-29
+1. ch-30
+1. ch-31 
+1. ch-32
+1. ch-33
+1. ch-34
+1. ch-35
+1. ch-36
+1. ch-37
+1. ch-38
+1. ch-39
+1. ch-40
+1. ch-41 
+1. ch-42
+1. ch-43
+1. ch-44
+1. ch-45
+1. ch-46
+1. ch-47
+1. ch-48
+1. ch-49
+1. ch-50
+1. [All things reverence the Way](ch-51.md)
+1. ch-52
+1. ch-53
+1. ch-54
+1. ch-55
+1. ch-56
+1. ch-57
+1. ch-58
+1. ch-59
+1. ch-60
+1. ch-61 
+1. ch-62
+1. ch-63
+1. ch-64
+1. ch-65
+1. ch-66
+1. ch-67
+1. ch-68
+1. ch-69
+1. ch-70
+1. ch-71 
+1. ch-72
+1. ch-73
+1. ch-74
+1. ch-75
+1. ch-76
+1. ch-77
+1. ch-78
+1. ch-79
+1. ch-80
+1. ch-81 

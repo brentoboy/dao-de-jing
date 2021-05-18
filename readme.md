@@ -17,7 +17,7 @@ Made available for distribution under the Creative Commons License.
 1. [Forerunner of the Gods](ch-04.md)
 1. [Straw Dogs and Bellows](ch-05.md)
 1. [The Valley Spirit](ch-06.md)
-1. ch-07
+1. [Rejuvination via Self Sacrifice](ch-07.md)
 1. ch-08
 1. ch-09
 1. ch-10

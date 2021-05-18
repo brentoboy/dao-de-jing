@@ -22,7 +22,7 @@ Made available for distribution under the Creative Commons License.
 1. [After Zenith Comes Decline](ch-09.md)
 1. [Can You ...?](ch-10.md)
 2. [Making Use of Where Its Not](ch-11.md) 
-3. ch-12
+3. [Avoiding Overstimulation](ch-12.md)
 4. ch-13
 5. ch-14
 6. ch-15

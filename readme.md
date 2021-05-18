@@ -1,4 +1,4 @@
-# Dao De Jing
+# 道德經 - Dao De Jing
 
 # Ancient-Wisdom about the Way, Virtue
 
@@ -16,7 +16,7 @@ Made available for distribution under the Creative Commons License.
 1. [Governing by satisfying bellies](ch-03.md)
 1. [Forerunner of the Gods](ch-04.md)
 1. [Straw Dogs and Bellows](ch-05.md)
-1. ch-06
+1. [The Valley Spirit](ch-06.md)
 1. ch-07
 1. ch-08
 1. ch-09

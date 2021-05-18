@@ -15,7 +15,7 @@ Made available for distribution under the Creative Commons License.
 1. [Together Emerging](ch-02.md)
 1. [Governing by satisfying bellies](ch-03.md)
 1. [Forerunner of the Gods](ch-04.md)
-1. ch-05
+1. [Straw Dogs and Bellows](ch-05.md)
 1. ch-06
 1. ch-07
 1. ch-08

@@ -19,7 +19,7 @@ Made available for distribution under the Creative Commons License.
 1. [The Valley Spirit](ch-06.md)
 1. [Rejuvination via Self Sacrifice](ch-07.md)
 1. [Virtue like Water](ch-08.md)
-1. ch-09
+1. [After Zenith Comes Decline](ch-09.md)
 1. ch-10
 1. ch-11 
 1. ch-12

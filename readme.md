@@ -23,7 +23,7 @@ Made available for distribution under the Creative Commons License.
 1. [Can You ...?](ch-10.md)
 2. [Making Use of Where Its Not](ch-11.md) 
 3. [Avoiding Overstimulation](ch-12.md)
-4. ch-13
+4. [Accepting the Good and the Bad](ch-13.md) (incomplete)
 5. ch-14
 6. ch-15
 7. ch-16

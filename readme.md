@@ -26,7 +26,7 @@ Made available for distribution under the Creative Commons License.
 4. [Accepting the Good and the Bad](ch-13.md) (incomplete)
 5. [Undetectable, but Still Knowable](ch-14.md)
 6. [Be Still, Let the Fog Clear Itself](ch-15.md)
-7. ch-16
+7. [Observe Their Habits](ch-16.md)
 8. ch-17
 9. ch-18
 10. ch-19

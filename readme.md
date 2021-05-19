@@ -25,7 +25,7 @@ Made available for distribution under the Creative Commons License.
 3. [Avoiding Overstimulation](ch-12.md)
 4. [Accepting the Good and the Bad](ch-13.md) (incomplete)
 5. [Undetectable, but Still Knowable](ch-14.md)
-6. ch-15
+6. [Be Still, Let the Fog Clear Itself](ch-15.md)
 7. ch-16
 8. ch-17
 9. ch-18

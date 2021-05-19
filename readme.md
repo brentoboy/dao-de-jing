@@ -28,7 +28,7 @@ Made available for distribution under the Creative Commons License.
 6. [Be Still, Let the Fog Clear Itself](ch-15.md)
 7. [Observe Their Habits](ch-16.md)
 8. [Expensive Promises](ch-17.md)
-9. ch-18
+9. [Societal Decay](ch-18.md)
 10. ch-19
 11. ch-20
 12. ch-21 

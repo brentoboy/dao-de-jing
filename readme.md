@@ -24,7 +24,7 @@ Made available for distribution under the Creative Commons License.
 2. [Making Use of Where Its Not](ch-11.md) 
 3. [Avoiding Overstimulation](ch-12.md)
 4. [Accepting the Good and the Bad](ch-13.md) (incomplete)
-5. ch-14
+5. [Undetectable, but Still Knowable](ch-14.md)
 6. ch-15
 7. ch-16
 8. ch-17

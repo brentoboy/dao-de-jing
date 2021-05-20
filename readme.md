@@ -30,7 +30,7 @@ Made available for distribution under the Creative Commons License.
 8. [Expensive Promises](ch-17.md)
 9. [Societal Decay](ch-18.md)
 10. [Govern Like a Libertarian](ch-19.md)
-11. ch-20
+11. [Vagabond](ch-20.md)
 12. ch-21 
 13. ch-22
 14. ch-23

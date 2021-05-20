@@ -29,7 +29,7 @@ Made available for distribution under the Creative Commons License.
 7. [Observe Their Habits](ch-16.md)
 8. [Expensive Promises](ch-17.md)
 9. [Societal Decay](ch-18.md)
-10. ch-19
+10. [Govern Like a Libertarian](ch-19.md)
 11. ch-20
 12. ch-21 
 13. ch-22

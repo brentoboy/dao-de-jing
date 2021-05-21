@@ -31,7 +31,7 @@ Made available for distribution under the Creative Commons License.
 9. [Societal Decay](ch-18.md)
 10. [Govern Like a Libertarian](ch-19.md)
 11. [Vagabond](ch-20.md)
-12. ch-21 
+12. [At the Core of the Dao](ch-21.md) 
 13. ch-22
 14. ch-23
 15. ch-24

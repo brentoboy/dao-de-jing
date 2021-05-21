@@ -32,7 +32,7 @@ Made available for distribution under the Creative Commons License.
 10. [Govern Like a Libertarian](ch-19.md)
 11. [Vagabond](ch-20.md)
 12. [At the Core of the Dao](ch-21.md) 
-13. ch-22
+13. [Feebleness Follows Wholeness](ch-22.md)
 14. ch-23
 15. ch-24
 16. ch-25

@@ -36,7 +36,7 @@ Made available for distribution under the Creative Commons License.
 1. [Birds of a Feather](ch-23.md)
 1. [Wasted Effort](ch-24.md)
 1. [The Ancient Ever-present Sovereign of Heaven and Earth](ch-25.md)
-1. (ch-26.md)
+1. [Spontaneous](ch-26.md)
 1. (ch-27.md)
 1. (ch-28.md)
 1. (ch-29.md)

@@ -11,7 +11,7 @@ translated into english by Brent Larsen
 Made available for distribution under the Creative Commons License.
 
 ## Table of Contents:
-1. [Mystery of Mysteries](ch-01.md) 
+1. [Mystery of Mysteries](ch-01.md)
 1. [Together Emerging](ch-02.md)
 1. [Governing by satisfying bellies](ch-03.md)
 1. [Forerunner of the Gods](ch-04.md)
@@ -21,74 +21,74 @@ Made available for distribution under the Creative Commons License.
 1. [Virtue like Water](ch-08.md)
 1. [After Zenith Comes Decline](ch-09.md)
 1. [Can You ...?](ch-10.md)
-2. [Making Use of Where Its Not](ch-11.md) 
-3. [Avoiding Overstimulation](ch-12.md)
-4. [Accepting the Good and the Bad](ch-13.md) (incomplete)
-5. [Undetectable, but Still Knowable](ch-14.md)
-6. [Be Still, Let the Fog Clear Itself](ch-15.md)
-7. [Observe Their Habits](ch-16.md)
-8. [Expensive Promises](ch-17.md)
-9. [Societal Decay](ch-18.md)
-10. [Govern Like a Libertarian](ch-19.md)
-11. [Vagabond](ch-20.md)
-12. [At the Core of the Dao](ch-21.md) 
-13. [Feebleness Follows Wholeness](ch-22.md)
-14. ch-23
-15. ch-24
-16. ch-25
-17. ch-26
-18. ch-27
-19. ch-28
-20. ch-29
-21. ch-30
-22. ch-31 
-23. ch-32
-24. ch-33
-25. ch-34
-26. ch-35
-27. ch-36
-28. ch-37
-29. ch-38
-30. ch-39
-31. ch-40
-32. ch-41 
-33. ch-42
-34. ch-43
-35. ch-44
-36. ch-45
-37. ch-46
-38. ch-47
-39. ch-48
-40. ch-49
-41. ch-50
-42. [All things reverence the Way](ch-51.md)
-43. ch-52
-44. ch-53
-45. ch-54
-46. ch-55
-47. ch-56
-48. ch-57
-49. ch-58
-50. ch-59
-51. ch-60
-52. ch-61 
-53. ch-62
-54. ch-63
-55. ch-64
-56. ch-65
-57. ch-66
-58. ch-67
-59. ch-68
-60. ch-69
-61. ch-70
-62. ch-71 
-63. ch-72
-64. ch-73
-65. ch-74
-66. ch-75
-67. ch-76
-68. ch-77
-69. ch-78
-70. ch-79
-71. ch-80
-72. ch-81 
+1. [Making Use of Where Its Not](ch-11.md)
+1. [Avoiding Overstimulation](ch-12.md)
+1. [Accepting the Good and the Bad](ch-13.md) (incomplete)
+1. [Undetectable, but Still Knowable](ch-14.md)
+1. [Be Still, Let the Fog Clear Itself](ch-15.md)
+1. [Observe Their Habits](ch-16.md)
+1. [Expensive Promises](ch-17.md)
+1. [Societal Decay](ch-18.md)
+1. [Govern Like a Libertarian](ch-19.md)
+1. [Vagabond](ch-20.md) (incomplete)
+1. [At the Core of the Dao](ch-21.md)
+1. [Feebleness Follows Wholeness](ch-22.md)
+1. (ch-23.md)
+1. (ch-24.md)
+1. (ch-25.md)
+1. (ch-26.md)
+1. (ch-27.md)
+1. (ch-28.md)
+1. (ch-29.md)
+1. (ch-30.md)
+1. (ch-31.md)
+1. (ch-32.md)
+1. (ch-33.md)
+1. (ch-34.md)
+1. (ch-35.md)
+1. (ch-36.md)
+1. (ch-37.md)
+1. (ch-38.md)
+1. (ch-39.md)
+1. (ch-40.md)
+1. (ch-41.md)
+1. (ch-42.md)
+1. (ch-43.md)
+1. (ch-44.md)
+1. (ch-45.md)
+1. (ch-46.md)
+1. (ch-47.md)
+1. (ch-48.md)
+1. (ch-49.md)
+1. (ch-50.md)
+1. [All things reverence the Way](ch-51.md)
+1. (ch-52.md)
+1. (ch-53.md)
+1. (ch-54.md)
+1. (ch-55.md)
+1. (ch-56.md)
+1. (ch-57.md)
+1. (ch-58.md)
+1. (ch-59.md)
+1. (ch-60.md)
+1. (ch-61.md)
+1. (ch-62.md)
+1. (ch-63.md)
+1. (ch-64.md)
+1. (ch-65.md)
+1. (ch-66.md)
+1. (ch-67.md)
+1. (ch-68.md)
+1. (ch-69.md)
+1. (ch-70.md)
+1. (ch-71.md)
+1. (ch-72.md)
+1. (ch-73.md)
+1. (ch-74.md)
+1. (ch-75.md)
+1. (ch-76.md)
+1. (ch-77.md)
+1. (ch-78.md)
+1. (ch-79.md)
+1. (ch-80.md)
+1. (ch-81.md)

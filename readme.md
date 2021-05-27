@@ -39,7 +39,7 @@ Made available for distribution under the Creative Commons License.
 1. [Spontaneous](ch-26.md)
 1. (ch-27.md) (incomplete)
 1. [Knowing Yang, Maintain Yin](ch-28.md)
-1. (ch-29.md)
+1. [Don't Rule With an Iron Fist](ch-29.md)
 1. (ch-30.md)
 1. (ch-31.md)
 1. (ch-32.md)

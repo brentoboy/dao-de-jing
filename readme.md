@@ -43,7 +43,7 @@ Made available for distribution under the Creative Commons License.
 1. [How many Brutal Years Follow A Great Army?](ch-30.md)
 1. (ch-31.md) (incomplete)
 1. [Governing By Individual Equality](ch-32.md)
-1. (ch-33.md)
+1. [Know Thyself](ch-33.md)
 1. (ch-34.md)
 1. (ch-35.md)
 1. (ch-36.md)
